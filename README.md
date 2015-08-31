@@ -20,6 +20,10 @@ Where to find things
  * [Sculpteo](http://www.sculpteo.com/en/services/)
  * [Shapeways](http://www.shapeways.com)
  * [Thingiverse](http://www.thingiverse.com)
+* Outreach
+ * [Volunteer-made prosthetics](http://enablingthefuture.org/)
+* Tools
+ * [M3D Micro Printer](https://printm3d.com/)
 
 
 ## Other designs
@@ -36,4 +40,8 @@ Things I found
 * Inspiration (no model files available)
  * [Strandbeests by Theo Hansen](http://www.shapeways.com/designer/TheoJansen)
  * [Moon light by Eisuke Tachikawa](http://nosigner.com/case/the-moon/)
-
+ * [Intersections by Anila Quayyum Agha](http://www.thisiscolossal.com/2014/02/intersections-an-ornately-carved-wood-cube-projects-shadows-onto-gallery-walls/)
+ * [I Could Eat a Horse: A Spaghetti Measuring Tool by Stefán Pétur Sólveigarson](http://www.thisiscolossal.com/2011/12/i-could-eat-a-horse-a-spaghetti-measuring-tool/)
+* More Tools
+ * [Analog 3D printer by  Daniël de Bruin](http://3dprint.com/6407/electric-free-analog-3d-printer/)
+ * [Touchup/Finishing Tool](http://3ddeconference.com/tools/worlds-first-heated-3d-print-finishing-tool-retouch3d/)
